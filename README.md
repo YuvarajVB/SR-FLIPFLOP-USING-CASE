@@ -76,6 +76,7 @@ endmodule
 ![exp 6 dia](https://github.com/23003250/SR-FLIPFLOP-USING-CASE/assets/139331462/a405e7df-641d-4013-ad9f-7cdb3727ddbe)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![exp 6 timing](https://github.com/23003250/SR-FLIPFLOP-USING-CASE/assets/139331462/9f92297c-07ca-4958-9714-e5c46b2f29ec)
 
 **RESULTS**
